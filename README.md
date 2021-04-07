@@ -1,6 +1,6 @@
 # Happy-gitting-
 
-Just try out the git thing and enjoy gitting!
+Just try out the git thing and enjoy gitting! Happy to git with you.
 
 Here is a cute dolphin:
 
